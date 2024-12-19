@@ -1,6 +1,6 @@
 export const CONTACT_INFO = {
 	email: "rastoginishant@yahoo.in",
-	github: "rastoginishant@yahoo.in",
+	github: "https://github.com/RastogiNishant",
 	linkedin: "https://www.linkedin.com/in/nishant-rastogi-573a01340/",
 };
 
